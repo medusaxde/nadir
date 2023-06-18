@@ -18,7 +18,7 @@
 # Author: $author$
 #   Date: 3/4/2023
 #
-# os specific QtCreator project .pro file for texta framework nadir static library libnadir
+# os specific QtCreator project .pro file for framework nadir static library libnadir
 ########################################################################
 # Depends: rostra
 #

@@ -18,7 +18,7 @@
 # Author: $author$
 #   Date: 3/4/2023
 #
-# generic QtCreator project file for texta framework nadir static library libnadir
+# generic QtCreator project file for framework nadir static library libnadir
 ########################################################################
 
 ########################################################################
